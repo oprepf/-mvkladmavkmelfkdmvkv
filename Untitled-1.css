@@ -1,0 +1,24 @@
+body {color: #c48f3b;
+    background-color: #bea782;}
+p {text-align: center;
+    color: #75592e;
+    font-family: cursive;}
+h1 {text-align: center;
+    background-color: #a7895a;
+    border-radius: 10px;
+    color: #75592e;
+    font-family: cursive;}
+img {display: block;
+    margin: auto;
+    height: 200px;
+    border-radius: 40px;
+    border: solid 5px #75592e;
+    }
+button{text-align: center;
+    background-color: #75592e;
+    border-radius: 200px;;
+    }
+a {color: #bea782;
+    font-family: cursive;
+    text-decoration: none;}
+.alok{text-align: center;}
